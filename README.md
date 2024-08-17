@@ -1,3 +1,5 @@
+# Model-GLUE : Democratized LLM Scaling for A Large Model Zoo in the Wild
+
 This is the official code for the merging benchmark in the ``Model-GLUE : Democratized LLM Scaling for A Large Model Zoo in the Wild``.
 
 ## Quick start
